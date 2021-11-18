@@ -5,7 +5,7 @@
 	<WealthAlertRemWT>Remove threshold from stack</WealthAlertRemWT>
 	<WealthAlertFull>Stack full - cannot add threshold.</WealthAlertFull>
 	<WealthAlertTrippedLabel>Wealth threshold exceeded</WealthAlertTrippedLabel>
-	<WealthAlertTripped>Alert: {0} has exceeded {1} wealth.\n\nCurrent wealth: {3}</WealthAlertTripped>
+	<WealthAlertTripped>Alert: {0} has exceeded {1} wealth.\n\nCurrent wealth: {2}</WealthAlertTripped>
 	<WealthAlertDroppedLabel>Wealth threshold lowered</WealthAlertDroppedLabel>
-	<WealthAlertDropped>Alert: your colony has dropped below its most recent wealth threshold of {0} wealth.\n\nThe new most recent wealth threshold is {1} wealth.\n\nCurrent wealth: {3}</WealthAlertDropped>
+	<WealthAlertDropped>Alert: your colony has dropped below its most recent wealth threshold of {0} wealth.\n\nThe new most recent wealth threshold is {1} wealth.\n\nCurrent wealth: {2}</WealthAlertDropped>
 </LanguageData>
