@@ -3,6 +3,7 @@
 	<WealthAlertName>Wealth Alert</WealthAlertName>
 	<WealthAlertAddWT>Add threshold to stack</WealthAlertAddWT>	
 	<WealthAlertRemWT>Remove threshold from stack</WealthAlertRemWT>
+	<WealthAlertDefault>Reset stack to default (expectation moodlet thresholds)</WealthAlertDefault>
 	<WealthAlertFull>Stack full - cannot add threshold.</WealthAlertFull>
 	<WealthAlertTrippedLabel>Wealth threshold exceeded</WealthAlertTrippedLabel>
 	<WealthAlertTripped>Alert: {0} has exceeded {1} wealth.\n\nCurrent wealth: {2}</WealthAlertTripped>
